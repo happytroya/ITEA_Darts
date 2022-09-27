@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Darts\bin\Debug\net6.0\Darts.exe
+C:\Users\User\source\repos\Darts\bin\Debug\net6.0\Darts.deps.json
+C:\Users\User\source\repos\Darts\bin\Debug\net6.0\Darts.runtimeconfig.json
+C:\Users\User\source\repos\Darts\bin\Debug\net6.0\Darts.dll
+C:\Users\User\source\repos\Darts\bin\Debug\net6.0\Darts.pdb
+C:\Users\User\source\repos\Darts\obj\Debug\net6.0\Darts.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Darts\obj\Debug\net6.0\Darts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Darts\obj\Debug\net6.0\Darts.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Darts\obj\Debug\net6.0\Darts.AssemblyInfo.cs
+C:\Users\User\source\repos\Darts\obj\Debug\net6.0\Darts.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Darts\obj\Debug\net6.0\Darts.dll
+C:\Users\User\source\repos\Darts\obj\Debug\net6.0\refint\Darts.dll
+C:\Users\User\source\repos\Darts\obj\Debug\net6.0\Darts.pdb
+C:\Users\User\source\repos\Darts\obj\Debug\net6.0\Darts.genruntimeconfig.cache
+C:\Users\User\source\repos\Darts\obj\Debug\net6.0\ref\Darts.dll
