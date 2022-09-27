@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ITEA_4\bin\Debug\net6.0\ITEA_4.exe
+C:\Users\User\source\repos\ITEA_4\bin\Debug\net6.0\ITEA_4.deps.json
+C:\Users\User\source\repos\ITEA_4\bin\Debug\net6.0\ITEA_4.runtimeconfig.json
+C:\Users\User\source\repos\ITEA_4\bin\Debug\net6.0\ITEA_4.dll
+C:\Users\User\source\repos\ITEA_4\bin\Debug\net6.0\ITEA_4.pdb
+C:\Users\User\source\repos\ITEA_4\obj\Debug\net6.0\ITEA_4.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITEA_4\obj\Debug\net6.0\ITEA_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ITEA_4\obj\Debug\net6.0\ITEA_4.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ITEA_4\obj\Debug\net6.0\ITEA_4.AssemblyInfo.cs
+C:\Users\User\source\repos\ITEA_4\obj\Debug\net6.0\ITEA_4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITEA_4\obj\Debug\net6.0\ITEA_4.dll
+C:\Users\User\source\repos\ITEA_4\obj\Debug\net6.0\refint\ITEA_4.dll
+C:\Users\User\source\repos\ITEA_4\obj\Debug\net6.0\ITEA_4.pdb
+C:\Users\User\source\repos\ITEA_4\obj\Debug\net6.0\ITEA_4.genruntimeconfig.cache
+C:\Users\User\source\repos\ITEA_4\obj\Debug\net6.0\ref\ITEA_4.dll
